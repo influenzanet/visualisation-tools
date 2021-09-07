@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Abruzzo",
+    "population": 1305770,
+    "nuts2": "ITF1",
+    "VARNAME_1": "Abruzos|Abruzzen|Abruzzes|Abruzzi"
+  },
+  {
+    "name": "Apulia",
+    "population": 4008296,
+    "nuts2": "ITF4",
+    "VARNAME_1": "Apulien|Pouilles|Pouille|Puglia|Puglie"
+  },
+  {
+    "name": "Basilicata",
+    "population": 556934,
+    "nuts2": "ITF5",
+    "VARNAME_1": "Basilicate|Lucania"
+  },
+  {
+    "name": "Calabria",
+    "population": 1924701,
+    "nuts2": "ITF6",
+    "VARNAME_1": "Calabre|Calabrie|Kalabrien"
+  },
+  {
+    "name": "Campania",
+    "population": 5785861,
+    "nuts2": "ITF3",
+    "VARNAME_1": "Campanha|Campanie|Kampanien"
+  },
+  {
+    "name": "Emilia-Romagna",
+    "population": 4467118,
+    "nuts2": "ITD5",
+    "VARNAME_1": "Emilia Romagna|Emilia|Emilia-Romaña|Émilie-Romagne"
+  },
+  {
+    "name": "Friuli-Venezia Giulia",
+    "population": 1211357,
+    "nuts2": "ITD4",
+    "VARNAME_1": "Friuli Venezia Giulia|Friuli-Venecia Julia"
+  },
+  {
+    "name": "Lazio",
+    "population": 5865544,
+    "nuts2": "ITE4",
+    "VARNAME_1": "Lacio|Latium"
+  },
+  {
+    "name": "Liguria",
+    "population": 1543127,
+    "nuts2": "ITC3",
+    "VARNAME_1": "Ligurie|Ligurien"
+  },
+  {
+    "name": "Lombardia",
+    "population": 10103969,
+    "nuts2": "ITC4",
+    "VARNAME_1": "Lombardy|Lombardei|Lombardie"
+  },
+  {
+    "name": "Marche",
+    "population": 1518400,
+    "nuts2": "ITE3",
+    "VARNAME_1": "Marches|Marca"
+  },
+  {
+    "name": "Molise",
+    "population": 302265,
+    "nuts2": "ITF2",
+    "VARNAME_1": "Molisa"
+  },
+  {
+    "name": "Piemonte",
+    "population": 4341375,
+    "nuts2": "ITC1",
+    "VARNAME_1": "Piemont|Piémont|Piemonte|Piedmont"
+  },
+  {
+    "name": "Sardegna",
+    "population": 1630474,
+    "nuts2": "ITG2",
+    "VARNAME_1": "Cerdeña|Sardenha"
+  },
+  {
+    "name": "Sicily",
+    "population": 4968410,
+    "nuts2": "ITG1",
+    "VARNAME_1": "Sicilia"
+  },
+  {
+    "name": "Toscana",
+    "population": 3722729,
+    "nuts2": "ITE1",
+    "VARNAME_1": "Tuscany|Toscane|Toskana"
+  },
+  {
+    "name": "Trentino-Alto Adige",
+    "population": 1074819,
+    "nuts2": "ITD1, ITD2",
+    "VARNAME_1": "Trentino - Alto Adige|Trentino-Alto Adigio|Trentino-South Tirol|Venezia Tridentina|Trentino-South Tyrol"
+  },
+  {
+    "name": "Umbria",
+    "population": 880285,
+    "nuts2": "ITE2",
+    "VARNAME_1": "Ombrie|Umbrien"
+  },
+  {
+    "name": "Valle d'Aosta",
+    "population": 125501,
+    "nuts2": "ITC2",
+    "VARNAME_1": "Aosta Valley|Val d'Aoste|Vallée d'Aoste"
+  },
+  {
+    "name": "Veneto",
+    "population": 4907704,
+    "nuts2": "ITD3",
+    "VARNAME_1": "Venecia|Venetia|Venezia Euganea"
+  }
+]

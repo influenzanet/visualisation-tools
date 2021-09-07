@@ -1,0 +1,75 @@
+languages:
+  - 'en'
+  - 'it'
+countryCode: IT
+sliderConfiguration:
+  startDate: 02-11-2020 # labels for the slider start from this date
+  endDate: 23-05-2021 # labels for the slider end at this date 
+  hideTicks: false # Remove markers on the slider axis
+  period: weekly # Calculate labels from start date on a weekly basis upto the end date
+covidIncidenceChart:
+  name:
+      en: "COVID19-like complaints per 1000 participants"
+      it: "Reclami simili a COVID19 per 1000 partecipanti"
+  title:
+    en: "COVID19-like complaints per 1000 participants"
+    it: "Reclami simili a COVID19 per 1000 partecipanti"
+  colorScale:
+    hoverStrokeColor: "#FD4"
+    colors:
+      - "#FDEDEC"
+      - "#FADBD8"
+      - "#F5B7B1"
+      - "#F1948A"
+      - "#EC7063"
+      - "#CB4335"
+  legend:
+    show: true
+    title:
+      en: "COVID19-like complaints per 1000 participants"
+      it: "Reclami simili a COVID19 per 1000 partecipanti"
+    position:
+      x: "left"
+      y: "bottom"
+  data:
+    # Column Id's for relevant symtoms in Weekly Response
+    symptomFields:
+      cough: Q1_6
+      fever: Q1_1
+      breath: Q1_7
+      smell: Q1_23
+      taste: Q1_21
+    truthValues:
+      checked: t
+      unchecked: f
+participantChart:
+  name:
+    en: "Weekly Participants"
+    it: "Partecipanti settimanali"
+  title:
+    en: "Weekly Participants"
+    it: "Partecipanti settimanali"
+  colorScale:
+    hoverStrokeColor: "#FD4"
+    colors:
+      - "#FDEDEC"
+      - "#FADBD8"
+      - "#F5B7B1"
+      - "#F1948A"
+      - "#EC7063"
+      - "#CB4335"
+  legend:
+    show: true
+    title:
+      en: "Weekly Participants"
+      it: "Partecipanti settimanali"
+    position:
+      x: "left"
+      y: "bottom"
+  data:
+    # Column ID, and format of the time when individual responses in weekly surveys were submitted
+    timeInfo:
+      columnName: timestamp
+      timeFormat: "%Y-%m-%d %H:%M:%S.%f%z"
+    participantId:
+      columnName: global_id
